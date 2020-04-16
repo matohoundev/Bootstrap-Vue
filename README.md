@@ -1,2 +1,2 @@
-# New Project Booostrap Vue
+# New Project Boostrap Vue
  Bootstrap Vue
